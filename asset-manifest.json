@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/globomantics/static/css/main.f89fbc31.css",
-    "main.js": "/globomantics/static/js/main.58ba7972.js",
+    "main.js": "/globomantics/static/js/main.04b864f2.js",
     "static/js/787.5c36ae69.chunk.js": "/globomantics/static/js/787.5c36ae69.chunk.js",
     "static/media/Email.png": "/globomantics/static/media/Email.a1989695a02701922671.png",
     "static/media/GloboLogo.png": "/globomantics/static/media/GloboLogo.23130263a019e0a1b1e8.png",
     "index.html": "/globomantics/index.html",
     "main.f89fbc31.css.map": "/globomantics/static/css/main.f89fbc31.css.map",
-    "main.58ba7972.js.map": "/globomantics/static/js/main.58ba7972.js.map",
+    "main.04b864f2.js.map": "/globomantics/static/js/main.04b864f2.js.map",
     "787.5c36ae69.chunk.js.map": "/globomantics/static/js/787.5c36ae69.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f89fbc31.css",
-    "static/js/main.58ba7972.js"
+    "static/js/main.04b864f2.js"
   ]
 }
